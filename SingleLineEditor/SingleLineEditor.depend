@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699374373 source:e:\c++labs\singlelineeditor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
