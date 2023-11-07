@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1699349645 source:c:\users\el3araby\desktop\insertstudentmenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"standers.h"
+
+1699349234 c:\users\el3araby\desktop\insertstudentmenu\standers.h
+
